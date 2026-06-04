@@ -13,7 +13,17 @@ class SobreMim {
 }
 ```
 
-## 
+
+---
+
+## 4. Adicionar os badges de tecnologias
+
+Use o site:
+
+:contentReference[oaicite:0]{index=0}
+
+Exemplo:
+
 ```md
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
